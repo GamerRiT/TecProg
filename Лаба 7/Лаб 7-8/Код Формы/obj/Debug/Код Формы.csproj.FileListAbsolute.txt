@@ -1,0 +1,20 @@
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe.config
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.pdb
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Form1.resources
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.exe
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.pdb
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\bin\Debug\Код Формы.exe.config
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\bin\Debug\Код Формы.exe
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\bin\Debug\Код Формы.pdb
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код_Формы.Form1.resources
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код Формы.exe
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7-8(2)\Код Формы\obj\Debug\Код Формы.pdb

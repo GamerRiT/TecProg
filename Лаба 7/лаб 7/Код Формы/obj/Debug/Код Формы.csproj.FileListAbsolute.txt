@@ -1,0 +1,50 @@
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe.config
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.pdb
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Form1.resources
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.exe
+D:\Programing\Проекты на C#\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.pdb
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe.config
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.pdb
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Form1.resources
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.exe
+C:\Users\Максим\source\repos\Programming_Lab\Лабораторная работа 7 - 8\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.pdb
+D:\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe.config
+D:\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.exe
+D:\Лаб 7(2)\Код Формы\bin\Debug\Код Формы.pdb
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Form1.resources
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.exe
+D:\Лаб 7(2)\Код Формы\obj\Debug\Код Формы.pdb
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\bin\Debug\Код Формы.exe.config
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\bin\Debug\Код Формы.exe
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\bin\Debug\Код Формы.pdb
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код_Формы.Form1.resources
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код Формы.exe
+C:\Users\User\Desktop\Лабы информатика\7\Код Формы\obj\Debug\Код Формы.pdb
+F:\Програмирование\лаб 7\Код Формы\bin\Debug\Код Формы.exe.config
+F:\Програмирование\лаб 7\Код Формы\bin\Debug\Код Формы.exe
+F:\Програмирование\лаб 7\Код Формы\bin\Debug\Код Формы.pdb
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код Формы.csprojAssemblyReference.cache
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код_Формы.Form1.resources
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код_Формы.Properties.Resources.resources
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код Формы.csproj.GenerateResource.cache
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код Формы.csproj.CoreCompileInputs.cache
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код Формы.exe
+F:\Програмирование\лаб 7\Код Формы\obj\Debug\Код Формы.pdb
