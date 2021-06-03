@@ -1,0 +1,10 @@
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.csprojAssemblyReference.cache
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.Form1.resources
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.Properties.Resources.resources
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.csproj.GenerateResource.cache
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.csproj.CoreCompileInputs.cache
+X:\Техпрог\tech_prog_5\tech_prog_5\bin\Debug\tech_prog_5.exe.config
+X:\Техпрог\tech_prog_5\tech_prog_5\bin\Debug\tech_prog_5.exe
+X:\Техпрог\tech_prog_5\tech_prog_5\bin\Debug\tech_prog_5.pdb
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.exe
+X:\Техпрог\tech_prog_5\tech_prog_5\obj\Debug\tech_prog_5.pdb
