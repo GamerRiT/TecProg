@@ -1,0 +1,30 @@
+G:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.exe.config
+G:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.exe
+G:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.pdb
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csprojAssemblyReference.cache
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\_4дз.Form1.resources
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\_4дз.Properties.Resources.resources
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csproj.GenerateResource.cache
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csproj.CoreCompileInputs.cache
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.exe
+G:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.pdb
+F:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.exe.config
+F:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.exe
+F:\Технолоджи прграммирования\4\4дз\bin\Debug\4дз.pdb
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csprojAssemblyReference.cache
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\_4дз.Form1.resources
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\_4дз.Properties.Resources.resources
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csproj.GenerateResource.cache
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.csproj.CoreCompileInputs.cache
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.exe
+F:\Технолоджи прграммирования\4\4дз\obj\Debug\4дз.pdb
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\bin\Debug\4дз.exe.config
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\bin\Debug\4дз.exe
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\bin\Debug\4дз.pdb
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\4дз.csprojAssemblyReference.cache
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\_4дз.Form1.resources
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\_4дз.Properties.Resources.resources
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\4дз.csproj.GenerateResource.cache
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\4дз.csproj.CoreCompileInputs.cache
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\4дз.exe
+D:\ЛАБЫ ПО ТП\Лаба 4\4дз\obj\Debug\4дз.pdb

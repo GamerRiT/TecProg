@@ -1,0 +1,35 @@
+G:\Технолоджи прграммирования\4\4\bin\Debug\4.exe.config
+G:\Технолоджи прграммирования\4\4\bin\Debug\4.exe
+G:\Технолоджи прграммирования\4\4\bin\Debug\4.pdb
+G:\Технолоджи прграммирования\4\4\obj\Debug\4.csprojAssemblyReference.cache
+G:\Технолоджи прграммирования\4\4\obj\Debug\_4.Form1.resources
+G:\Технолоджи прграммирования\4\4\obj\Debug\_4.Properties.Resources.resources
+G:\Технолоджи прграммирования\4\4\obj\Debug\4.csproj.GenerateResource.cache
+G:\Технолоджи прграммирования\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+G:\Технолоджи прграммирования\4\4\obj\Debug\4.exe
+G:\Технолоджи прграммирования\4\4\obj\Debug\4.pdb
+F:\Технолоджи прграммирования\4\4\bin\Debug\4.exe.config
+F:\Технолоджи прграммирования\4\4\bin\Debug\4.exe
+F:\Технолоджи прграммирования\4\4\bin\Debug\4.pdb
+F:\Технолоджи прграммирования\4\4\obj\Debug\_4.Form1.resources
+F:\Технолоджи прграммирования\4\4\obj\Debug\_4.Properties.Resources.resources
+F:\Технолоджи прграммирования\4\4\obj\Debug\4.csproj.GenerateResource.cache
+F:\Технолоджи прграммирования\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+F:\Технолоджи прграммирования\4\4\obj\Debug\4.exe
+F:\Технолоджи прграммирования\4\4\obj\Debug\4.pdb
+E:\Лабы поТП\Лаба 4\4\bin\Debug\4.exe.config
+E:\Лабы поТП\Лаба 4\4\obj\Debug\4.exe
+E:\Лабы поТП\Лаба 4\4\obj\Debug\4.pdb
+E:\Лабы поТП\Лаба 4\4\bin\Debug\4.exe
+E:\Лабы поТП\Лаба 4\4\bin\Debug\4.pdb
+E:\Лабы поТП\Лаба 4\4\bin\Debug\mscorlib.dll
+E:\Лабы поТП\Лаба 4\4\bin\Debug\ru\mscorlib.resources.dll
+E:\Лабы поТП\Лаба 4\4\bin\Debug\normidna.nlp
+E:\Лабы поТП\Лаба 4\4\bin\Debug\normnfc.nlp
+E:\Лабы поТП\Лаба 4\4\bin\Debug\normnfd.nlp
+E:\Лабы поТП\Лаба 4\4\bin\Debug\normnfkc.nlp
+E:\Лабы поТП\Лаба 4\4\bin\Debug\normnfkd.nlp
+E:\Лабы поТП\Лаба 4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+E:\Лабы поТП\Лаба 4\4\obj\Debug\_4.Form1.resources
+E:\Лабы поТП\Лаба 4\4\obj\Debug\_4.Properties.Resources.resources
+E:\Лабы поТП\Лаба 4\4\obj\Debug\4.csproj.GenerateResource.Cache
