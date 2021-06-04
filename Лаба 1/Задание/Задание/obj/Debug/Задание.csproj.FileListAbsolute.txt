@@ -1,0 +1,10 @@
+F:\Лабы по инфе\Задание\Задание\bin\Debug\Задание.exe.config
+F:\Лабы по инфе\Задание\Задание\bin\Debug\Задание.exe
+F:\Лабы по инфе\Задание\Задание\bin\Debug\Задание.pdb
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.csprojAssemblyReference.cache
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.Form1.resources
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.Properties.Resources.resources
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.csproj.GenerateResource.cache
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.exe
+F:\Лабы по инфе\Задание\Задание\obj\Debug\Задание.pdb
