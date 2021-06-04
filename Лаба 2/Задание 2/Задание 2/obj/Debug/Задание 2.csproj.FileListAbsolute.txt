@@ -34,3 +34,13 @@ E:\Лабы поТП\Лаба 2\Задание 2\Задание 2\obj\Debug\За
 E:\Лабы поТП\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание_2.Form1.resources
 E:\Лабы поТП\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
 E:\Лабы поТП\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.Cache
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\bin\Debug\Задание 2.exe
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание_2.Form1.resources
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.cache
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.exe
+D:\ЛАБЫ ПО ТП\ТП GIT\TecProg\Лаба 2\Задание 2\Задание 2\obj\Debug\Задание 2.pdb

@@ -57,7 +57,7 @@ namespace Задание_2
         private void button3_Click(object sender, EventArgs e)
         {
             p++;
-            if ((p==1) || ((pz-1)==a2))
+            if ((p==1) || ((pz-1)>=a2))
                 {
                 if (o == 0)
                 {
@@ -116,7 +116,8 @@ namespace Задание_2
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            textBox.Clear();
+            richTextBox1.Clear();
         }
     }
 }
